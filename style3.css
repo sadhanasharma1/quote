@@ -1,0 +1,25 @@
+body{
+    background-color:black;
+}
+#img{
+    width:500px;
+    height:500px;
+    margin-left:500px;
+    border: 10px solid white;
+    margin-top:40px;
+
+}
+#q{
+    width:500px;
+    /* border: 10px solid white; */
+    margin-left:500px;
+     color:white;
+     text-align:center;
+     font-size: 2rem;
+}
+#head{
+    font-family: 'Poppins', sans-serif;
+    text-align:center;
+    font-size: 3rem;
+   
+}
